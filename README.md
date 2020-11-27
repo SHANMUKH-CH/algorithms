@@ -1,2 +1,2 @@
-# algorithmsMtech2020
+# algorithms
 class notes &amp; practice 
